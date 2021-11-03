@@ -10,9 +10,10 @@ html, * {
 }
 
 h1, h2, h3, h4, h5 {
-    color: #047ec5f6;
+    color: #008cc3;
 }
-
+/* 00c1e7 */
+/* 047ec5f6 */
 button, a, i {
     cursor: pointer;
 }
@@ -28,7 +29,7 @@ button, a, i {
 }
 
 .contactNumber {
-    background: #047ec5f6 !important;
+    background: #008cc3!important;
     padding: 0.5rem;
     font-size: 0.8rem;
 }
@@ -147,7 +148,7 @@ svg {
 }
 
 .nav-link:hover {
-    color: #047ec5f6 !important;
+    color: #008cc3 !important;
 }
 
 .slogan {
@@ -172,7 +173,7 @@ svg {
 }
 
 .fa-tint {
-    color: rgb(40, 134, 172);
+    color: #008cc3;
     font-size: 3rem;
     margin: 0.5rem;
 }
@@ -264,7 +265,7 @@ hr {
 
 footer {
     overflow: hidden;
-    background-color: #047ec5f6;
+    background-color: #008cc3;
     height: auto;
     width: 100%;
     display: flex;
