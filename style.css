@@ -151,6 +151,16 @@ svg {
     color: #008cc3 !important;
 }
 
+.logoWrap{
+    text-align: center;
+
+}
+.logo {
+    height: 5rem; 
+    width: auto;
+}
+
+
 .slogan {
     display: flex;
     flex-direction: column;
